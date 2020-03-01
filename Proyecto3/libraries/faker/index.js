@@ -1,0 +1,6 @@
+exports.Base = require('./Base')
+exports.Person = require('./Person')
+exports.Address = require('./Address')
+exports.Phone = require('./Phone')
+exports.Company = require('./Company')
+exports.Miscellaneous = require('./Miscellaneous')
